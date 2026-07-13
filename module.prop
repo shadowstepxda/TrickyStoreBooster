@@ -1,7 +1,6 @@
 id=tricky_store_booster
 name=Tricky Store Booster
-version=v1.1.0-lavender
-versionCode=110
-author=Cycle1337
-description=Automatically update "target.txt" to Tricky Store every 12 hours.
-updateJson=https://raw.githubusercontent.com/Cycle1337/TrickyStoreBooster/main/update.json
+version=v2.0.0
+versionCode=200
+author=Cycle1337, shadowstep
+description=Automatically update "target.txt" used by TrickyStore (and forks) every 12 hours
